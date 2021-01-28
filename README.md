@@ -2,7 +2,7 @@ DEMO LINK: https://theexpedition.herokuapp.com/
 
 Content Managemnet System made using laravel 7.
 
-Quick Features
+#Quick Features
 
 User roles and privelages - ('admin', 'writer')
 Facebook comment system.
