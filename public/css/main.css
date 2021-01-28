@@ -1,0 +1,37 @@
+.banner{
+    background:linear-gradient(90deg,  rgba(214, 210, 208, 0.8) 0%, rgba(240,254,255,1) 100%), url('../img/banner.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: .9;
+    background-position: bottom!important;
+
+}
+.banner-text{
+    color: #333!important;
+    text-shadow: 1px 2px #ebe1e1;
+}
+.banner-text-sub{
+    color: #333!important;
+
+}
+@media(max-width:999px){
+    .blog-nav-link{
+        width:100%;
+        background:none!important;
+        border-radius: 0 !important;
+        border:none!important;
+        color: #333;
+    }
+    .blog-nav-link:hover{
+        
+        color: #333!important;
+    }
+    
+}
+@media(max-width:800px){
+    .banner{
+        background: rgb(109,113,113);
+        background: linear-gradient(90deg, rgb(194, 224, 224) 0%, rgba(240,254,255,1) 100%);
+    }
+    
+}
