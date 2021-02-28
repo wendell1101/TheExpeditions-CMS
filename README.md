@@ -1,4 +1,4 @@
-DEMO LINK: https://theexpedition.herokuapp.com/
+DEMO LINK: https://theexpeditions.000webhostapp.com/
 
 Content Managemnet System made using laravel 7.
 
